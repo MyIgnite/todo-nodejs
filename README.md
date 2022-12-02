@@ -10,13 +10,13 @@ Clone o projeto e execute local:</br>
 `yarn` </br>
 `yarn dev` </br>
 
-[x] - Should be able to create a new user
-[x] - Should not be able to create a new user when username already exists
-[] - Should be able to list all user's todos
-[] - Should be able to create a new todo
-[] - Should be able to update a todo
-[] - Should not be able to update a non existing todo
-[] - Should be able to mark a todo as done
-[] - Should not be able to mark a non existing todo as done
-[] - Should be able to delete a todo
-[] - Should not be able to delete a non existing todo
+[x] - Deve ser capaz de criar um novo usuário
+[x] - Não deve ser possível criar um novo usuário quando o nome de usuário já existe
+[x] - Deve ser capaz de listar todas as tarefas do usuário
+[x] - Deve ser capaz de criar um novo todo
+[] - Deve ser capaz de atualizar um todo
+[] - Não deve ser capaz de atualizar um todo não existente
+[] - Deve ser capaz de marcar uma tarefa como concluída
+[] - Não deve ser capaz de marcar uma tarefa não existente como concluída
+[] - Deve ser capaz de excluir um todo
+[] - Não deve ser capaz de excluir um todo não existente
