@@ -1,4 +1,4 @@
-# API-todo
+# API-todo em Node.js
 Desafio: Criar usuário, criar tarefa, alterar tarefa e excluir.
 
 Abrir projeto com VSCode Online:
