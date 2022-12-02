@@ -15,7 +15,7 @@ Clone o projeto e execute local:</br>
 [x] - Deve ser capaz de listar todas as tarefas do usuário
 [x] - Deve ser capaz de criar um novo todo
 [x] - Deve ser capaz de atualizar um todo
-[] - Não deve ser capaz de atualizar um todo não existente
+[x] - Não deve ser capaz de atualizar um todo não existente
 [] - Deve ser capaz de marcar uma tarefa como concluída
 [] - Não deve ser capaz de marcar uma tarefa não existente como concluída
 [] - Deve ser capaz de excluir um todo
